@@ -15,3 +15,7 @@ Reset Game: Option to reset the game board to start a new game.
 
 Technologies Used
 Language: Vanilla JavaScript, HTML, CSS
+
+
+<img width="470" alt="Screenshot 2024-09-08 at 7 34 53 PM" src="https://github.com/user-attachments/assets/005037c8-4562-4471-a2db-54cbdf0c30b7">
+<img width="448" alt="Screenshot 2024-09-08 at 7 34 48 PM" src="https://github.com/user-attachments/assets/798f4b20-72cb-48c5-9381-380f15323d11">
